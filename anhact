@@ -276,4 +276,4 @@ echo "${GREEN#  }██   ██ ██  ██ ██ ██   ██ ██   
 echo "${PURPLE# }██   ██ ██   ████ ██   ██ ██   ██  ██████    ██    ██  ██████  ██████  ██      ██";
 echo "${normal}";
 
-read -p "Press enter to continue"
+read -p ""
